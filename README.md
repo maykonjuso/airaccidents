@@ -1,5 +1,9 @@
 <h1>AirAccidents</h1>
 
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=PROCESSING&color=GREEN&style=for-the-badge"/>
+</p>
+
 <h2>Índice</h2>
 
 - [Objetivos](#objetivos)
