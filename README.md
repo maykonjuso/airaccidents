@@ -49,8 +49,8 @@ Base de dados das ocorrências aeronáuticas enviadas pela Força Aérea Brasile
 ## Instalação
 
 ```bash
-$ git clone https://github.com/mdsreq-fga-unb/2023.1-FamilyMusicSystem.git
-$ cd 2023.1-FamilyMusicSystem
+$ git clone https://github.com/maykonjuso/AirAccidents.git
+$ cd AirAccidents
 ```
 
 ## Equipe
