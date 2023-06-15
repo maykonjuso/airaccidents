@@ -12,7 +12,7 @@
 
 ## Objetivos
 
-O projeto tem como objetivo analisar ocorrências aereas registradas pela Força Aérea Brasileira no Brasil, utilizando painéis interativos para apresentar os dados coletados da base da ANAC.
+O projeto tem como objetivo analisar ocorrências aéreas registradas pela Força Aérea Brasileira no Brasil, utilizando painéis interativos para apresentar os dados coletados da base da ANAC.
 
 ## Introdução
 
@@ -55,9 +55,7 @@ $ cd AirAccidents
 
 ## Equipe
 
-<a href="#">
-    <img src="https://avatars.githubusercontent.com/u/89596623?v=4" width="100px;" alt="Foto Maykon"/><br>
-    <sub>
-        <b>Maykon Júnio</b>
-    </sub>
+<a style="display: flex; flex-direction: column; align-items: center;">
+    <img src="https://avatars.githubusercontent.com/u/89596623?v=4" width="100px;" alt="Foto Maykon"/>
+    <b>Maykon Júnio</b>
 </a>
