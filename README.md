@@ -1,14 +1,16 @@
-# AirAccidents
+<h1>AirAccidents</h1>
 
-## Índice
+<h2>Índice</h2>
 
-- [Introdução](##Introdução)
-- [Base de dados](##Base)
-- [Tecnologias utilizadas](##Tecnologias)
-- [Instalação](##Instalação)
-- [Equipe](##Equipe)
+- [Objetivos](#objetivos)
+- [Introdução](#introdução)
+- [Base de dados](#base-de-dados)
+- [Tecnologias utilizadas](#tecnologias-utilizadas)
+  - [bibliotecas](#bibliotecas)
+- [Instalação](#instalação)
+- [Equipe](#equipe)
 
-## Objetivo
+## Objetivos
 
 O projeto tem como objetivo analisar ocorrências aereas registradas pela Força Aérea Brasileira no Brasil, utilizando painéis interativos para apresentar os dados coletados da base da ANAC.
 
@@ -37,6 +39,12 @@ Base de dados das ocorrências aeronáuticas enviadas pela Força Aérea Brasile
 ## Tecnologias utilizadas
 
 - [Python](https://www.python.org/)
+- [Jupyter](https://jupyter.org/)
+
+### bibliotecas
+
+- [Pandas](https://pandas.pydata.org/)
+- [Plotly](https://plotly.com/dash/)
 
 ## Instalação
 
